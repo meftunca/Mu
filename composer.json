@@ -1,0 +1,32 @@
+{
+    "name": "Mu~Php~Framework",
+    "description": "Yeni nesil php framework",
+    "license": "MIT",
+    "keywords": ["mu"],
+    "authors": [
+        {
+            "name": "Muhammed Burak Şentürk",
+            "email": "buraksenturk25@gmail.com"
+        }
+    ],
+    "require": {
+    "php": ">=5.6.0",
+    "filp/whoops": "^2.1",
+    "windwalker/edge": "~3.0",
+    "txthinking/mailer": "^1.4",
+    "intervention/image": "^2.4",
+    "gargron/fileupload": "~1.4.0",
+    "php-curl-class/php-curl-class": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app",
+      "system\\": "system",
+      "config\\": "config",
+      "public\\":"public"
+    }
+  },
+  "config": {
+    "preferred-install": "dist"
+  }
+}
