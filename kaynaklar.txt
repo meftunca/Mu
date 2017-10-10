@@ -1,0 +1,5 @@
+mailer sıfıf kaynağı => https://github.com/txthinking/Mailer
+curl sınıf kaynağı => https://github.com/php-curl-class/php-curl-class
+image sınıf kaynağı => http://image.intervention.io/getting_started/installation
+upload sınıf kaynağı => https://github.com/Gargron/fileupload
+migration and seeding yapı kaynağı => https://phinx.org/
