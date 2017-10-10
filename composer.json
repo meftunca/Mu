@@ -1,5 +1,16 @@
 {
-  "require": {
+    "name": "meftunca/muphpframework",
+    "description": "Yeni nesil php framework",
+    "license": "MIT",
+    "keywords": ["muphpframework"],
+    "homepage": "https://github.com/meftunca/muphpframework",
+    "authors": [
+        {
+            "name": "Muhammed Burak Şentürk",
+            "email": "buraksenturk25@gmail.com"
+        }
+    ],
+    "require": {
     "php": ">=5.6.0",
     "filp/whoops": "^2.1",
     "windwalker/edge": "~3.0",
