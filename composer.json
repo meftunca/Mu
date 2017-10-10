@@ -1,15 +1,5 @@
 {
-    "name": "meftunca/mvc",
-    "description": "Yeni nesil php framework",
-    "license": "MIT",
-    "keywords": ["mu"],
-    "authors": [
-        {
-            "name": "Muhammed Burak Şentürk",
-            "email": "buraksenturk25@gmail.com"
-        }
-    ],
-    "require": {
+  "require": {
     "php": ">=5.6.0",
     "filp/whoops": "^2.1",
     "windwalker/edge": "~3.0",
