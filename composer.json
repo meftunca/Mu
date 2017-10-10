@@ -2,7 +2,8 @@
     "name": "meftunca/muphpframework",
     "description": "Yeni nesil php framework",
     "license": "MIT",
-    "keywords": ["new mu mvc framework"],
+    "version":"0.1",
+    "keywords": ["Yeni mu mvc framework"],
     "homepage": "https://github.com/meftunca/muphpframework",
     "authors": [
         {
