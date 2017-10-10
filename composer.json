@@ -7,7 +7,8 @@
     "authors": [
         {
             "name": "Muhammed Burak Şentürk",
-            "email": "buraksenturk25@gmail.com"
+            "email": "buraksenturk25@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
